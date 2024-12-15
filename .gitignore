@@ -1,0 +1,12 @@
+# Entorno virtual
+venv/
+
+# Archivos de sistema
+*.pyc
+__pycache__/
+
+# Configuraciones sensibles
+.env
+
+# Archivos temporales
+*.log
